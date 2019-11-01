@@ -13,9 +13,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/db-journey/migrate/direction"
-	"github.com/db-journey/migrate/driver"
-	"github.com/db-journey/migrate/file"
+	"github.com/adamhassel/migrate/direction"
+	"github.com/adamhassel/migrate/driver"
+	"github.com/adamhassel/migrate/file"
 	"github.com/go-sql-driver/mysql"
 )
 
